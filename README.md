@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a post-graduate MSc trainee building my research skills in clinical developmental psychology
-- 🌱 Exploring data analysis methods and techniques
+- 🔭 Psychology BSc and MSc on a Data Science MSc journey 
 - ⚡ I like big paintings
 ---
 ### &nbsp;Languages:
