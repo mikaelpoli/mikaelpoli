@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Psychology BSc and MSc on a Data Science MSc journey 
+- 🔭 Psychology BSc and MSc, now with a twist of Data Science MSc!
 - ⚡ I like big paintings
 ---
 ### &nbsp;Languages:
