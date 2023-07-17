@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Almost-licensed psychologist currently pursuing a master's degree in data science \[estimated time of licensure: mid-2023]
+- 🔭 Almost-licensed psychologist currently pursuing a master's degree in data science \[estimated time of licensure: late 2023]
 - ⚡ I like big paintings
 ---
 ### &nbsp;Languages:
