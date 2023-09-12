@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hey there!
+My name is Mikael, I'm a licensed psychologist pursuing a master's degree in data science. I like big paintings and C pointers and unprompted bouts of artistic behavior and the way things change.
 
-- 🔭 Psych BSc and MSc, currently pursuing a master's degree in data science
-- ⚡ I like big paintings
 ---
 ### &nbsp;Languages:
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
