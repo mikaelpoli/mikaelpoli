@@ -1,5 +1,5 @@
 ### Hey there!
-My name is Mikael, I'm a licensed psychologist pursuing a master's degree in data science. I like big paintings and C pointers and unprompted bouts of artistic behavior and the way things change.
+I'm Mikael, I'm a licensed psychologist studying for a master's degree in data science who likes big paintings, C pointers, unprompted bouts of artistic behavior, and late 2000's New Zealand comedies.
 
 ---
 ### &nbsp;Languages:
