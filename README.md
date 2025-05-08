@@ -4,6 +4,7 @@
 ### Hey!
 I'm Mikael—a licensed psychologist currently pursuing a master's degree in data science. Not gonna lie, it's not always smooth sailing coming from the social-behavioral side of STEM, but hey, nothing some elbow grease and a few emotional support TV shows can't fix. I'm probably in the middle of a Flight of the Conchords rewatch as we speak.
 
+<br>
 <p align="center"> 
 .oOo.oOo.oOo.oOo.oOo.oOo.oOo.
 </p>
