@@ -1,8 +1,11 @@
+
+<img align="right" img src="https://media.giphy.com/media/2ysV96T6g03aIXKWJ2/giphy.gif" width=200>
+
 ### Hey!
 I'm Mikael—a licensed psychologist currently pursuing a master's degree in data science. Not gonna lie, it's not always smooth sailing coming from the social-behavioral side of STEM, but hey, nothing some elbow grease and a few emotional support TV shows can't fix. I'm probably in the middle of a Flight of the Conchords rewatch as we speak.
 
 <p align="center"> 
-<<<-------------------------------------->>>
+.oOo.oOo.oOo.oOo.oOo.oOo.oOo.
 </p>
 
 <p align="center">
@@ -11,6 +14,5 @@ I'm Mikael—a licensed psychologist currently pursuing a master's degree in dat
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white alt="RStudio">
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white alt="SQLite">
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
