@@ -7,7 +7,7 @@
   - *Most recent*: Gradient caching for BCGD [[X]](https://github.com/mikaelpoli/optimization-demo-gd-vs-bcgd-and-gradient-caching); CAFA-style protein function prediction [[X]](https://github.com/mikaelpoli/protein-function-prediction)
   - *Coming up*: Structural bioinformatics; Mathematical optimization; Statistical learning \[specifics TBD]
 - 🛠️ Main daily tools: `.py`, `.ipynb`, `.tex`, `.md`, `Visual Studio Code`
-- 🐝 Also working as an administrative tutor coordinator @ UniPD and serving on the board of directors for a local transgender health NPO
+- 🐝 Also working as an administrative tutor coordinator @ UniPD and serving on the board of directors for a transgender health NPO \[more on LinkedIn ⬇️]
 - ~~😶‍🌫️ Probably in the middle of a Flight of the Conchords rewatch as we speak~~
 
-🔗 [LinkedIn](https://www.linkedin.com/in/poli-mikael)<br>
+➡️ 🔗 [LinkedIn](https://www.linkedin.com/in/poli-mikael)<br>
