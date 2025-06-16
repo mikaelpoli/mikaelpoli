@@ -3,7 +3,7 @@
 🧬 Specializing in biological data analytics & bioinformatics<br>
 
 - 👨‍💻 Mainly working on uni projects and building on them to get a solid grasp of things:
-  - *Current*: Semantic network analysis of Reddit posts
+  - *Current*: "After the Vote: Mapping Online Trans Discourse" \[Semantic network analysis of Reddit posts\]
   - *Most recent*: Gradient caching for BCGD [[X]](https://github.com/mikaelpoli/optimization-demo-gd-vs-bcgd-and-gradient-caching); CAFA-style protein function prediction [[X]](https://github.com/mikaelpoli/protein-function-prediction)
   - *Coming up*: Structural bioinformatics; Mathematical optimization; Statistical learning \[specifics TBD]
 - 🛠️ Main daily tools: `.py`, `.ipynb`, `.tex`, `.md`, `Visual Studio Code`
