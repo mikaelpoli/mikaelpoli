@@ -3,9 +3,9 @@
 🧬 Specializing in biological data analytics & bioinformatics<br>
 
 - 👨‍💻 Mainly working on uni projects and building on them to get a solid grasp of things:
-  - *Current*: Classification of residue-residue contacts in PDB structures
+  - *Current*: RING classification of residue-residue contacts in PDB structures
   - *Most recent*:
-    - "After the Vote: Mapping Online Trans Discourse" \[current status: private\]
+    - Semantic network analysis of post-election trans discourse on Reddit [[X]](https://github.com/mikaelpoli/after-the-vote-network)
     - Gradient caching for BCGD [[X]](https://github.com/mikaelpoli/optimization-demo-gd-vs-bcgd-and-gradient-caching)
     - CAFA-style protein function prediction [[X]](https://github.com/mikaelpoli/protein-function-prediction)
   - *Coming up*: Optimization methods for MEB/anomaly detection; Statistical learning \[specifics TBD]
