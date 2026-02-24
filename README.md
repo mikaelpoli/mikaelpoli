@@ -5,7 +5,6 @@
 - 👨‍💻 Projects include:
   - *Current*:
     - Integrating machine learning and metagenomic frameworks to predict microbial ecological niches from genomic data \[thesis project]
-    - Statistical learning \[coursework]
     - Analyzing health-related data to support local community services \[repo status: private]
   - *Most recent*:
     - Frank-Wolfe optimization methods for MEB / anomaly detection [[X]](https://github.com/mikaelpoli/frankwolfe-meb)
