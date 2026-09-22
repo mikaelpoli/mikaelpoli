@@ -1,7 +1,5 @@
 ### Hi, I'm Mikael, nice to meet you! 👋
-📚 Research-trained psychologist currently pursuing an MSc in data science<br>
-🚀 Data Science intern @ Metabioinfomics Lab
-
+Really into data 🚀
 - 👨‍💻 Projects include:
   - *Current*:
     - Integrating machine learning and metagenomic frameworks to predict microbial ecological niches from genomic data \[thesis project]
